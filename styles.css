@@ -1,0 +1,26 @@
+body{
+    margin:20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.profilepic{
+    width: 150px;
+}
+
+.card{
+   width: 400px;
+  margin 0 auto;
+    padding: 20px;
+    display: flex ;
+    justify-content: space-around;
+    background-color: #9EB3C2;
+    border-bottom: 6px solid #1C7293;
+    color :#2b2839;
+    box-shadow: 10px 10px 3px 6px #9EB3C2;
+
+}
+
+.info{
+    display: flex;
+}
+
